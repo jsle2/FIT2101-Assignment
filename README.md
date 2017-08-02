@@ -1,2 +1,8 @@
 # FIT2101-Assignment
-FIT2101 Assignment Placeholder.
+Team Mr DJ
+
+Mr DJ is:
+Matt Bertoncello
+Rohit Varghese
+Dustin Haines
+Jordan Le
